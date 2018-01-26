@@ -1,7 +1,5 @@
 # monitor
 
-FIXME
-
 ## Usage
 
 ### Run the application locally
